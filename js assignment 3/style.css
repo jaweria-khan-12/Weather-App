@@ -1,0 +1,232 @@
+.main{
+    background-color: black;
+    height: 640px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    border: 1px;
+    width: 390px;
+    height: 500px;
+    position: relative;
+    top: 20px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(255, 255, 255, 0.747);
+}
+
+.box-1{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border: 1px solid grey;
+    width: 450px;
+    height: 480px;
+    border-radius: 10px;
+}
+
+.karachi{
+    width: 190px;
+    height: 190px;
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    border-radius: 120px;
+}
+
+.img-1{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: -115px;
+    left: 85px;
+}
+
+.karachi-text{
+    margin-left: -155px;
+    margin-top: 300px;
+    font-family: 𝙺𝙰𝚁𝙰𝙲𝙷𝙸;
+}
+
+.karachi-text-1{
+    margin-left: -95px;
+    margin-top: 400px;
+    font-family: 𝙺𝙰𝚁𝙰𝙲𝙷𝙸;
+}
+
+.karachi-text-2{
+    margin-left: -85px;
+    margin-top: 480px;
+    font-family: 𝙺𝙰𝚁𝙰𝙲𝙷𝙸;
+}
+
+.container:hover{
+    cursor: pointer;
+}
+
+.karachi-logo{
+    width: 50px;
+    height: 50px;
+    margin-top: 350px;
+    margin-left: -40px;
+}
+
+.navbar-1{
+    margin-top: 84px;
+    color: chocolate;
+    font-family: 𝙺𝙰𝚁𝙰𝙲𝙷𝙸;
+}
+
+.nav-heading{
+    color: rgba(185, 54, 6, 0.945);
+    font-size: 1.3rem;
+}
+
+/* sydney weather */
+
+.sydney{
+    width: 190px;
+    height: 190px;
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    border-radius: 120px;
+}
+
+.sydney-text{
+    margin-left: -150px;
+    margin-top: 300px;
+    font-family: 𝙺𝙰𝚁𝙰𝙲𝙷𝙸;
+}
+
+.sydney-text-1{
+    margin-left: -95px;
+    margin-top: 400px;
+    font-family: 𝙺𝙰𝚁𝙰𝙲𝙷𝙸;
+}
+
+.sydney-text-2{
+    margin-left: -85px;
+    margin-top: 480px;
+    font-family: 𝙺𝙰𝚁𝙰𝙲𝙷𝙸;
+}
+
+.sydney-logo{
+    width: 50px;
+    height: 50px;
+    margin-top: 350px;
+    margin-left: -40px;
+}
+
+/* brazil weather */
+
+.brazil{
+    width: 190px;
+    height: 190px;
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    border-radius: 120px;
+}
+
+.brazil-text{
+    margin-left: -140px;
+    margin-top: 300px;
+    font-family: 𝙺𝙰𝚁𝙰𝙲𝙷𝙸;
+}
+
+.brazil-text-1{
+    margin-left: -80px;
+    margin-top: 400px;
+    font-family: 𝙺𝙰𝚁𝙰𝙲𝙷𝙸;
+}
+
+.brazil-text-2{
+    margin-left: -80px;
+    margin-top: 480px;
+    font-family: 𝙺𝙰𝚁𝙰𝙲𝙷𝙸;
+}
+
+.brazil-logo{
+    width: 50px;
+    height: 50px;
+    margin-top: 350px;
+    margin-left: -40px;
+}
+
+/* indonesia weather */
+
+.indonesia{
+    width: 190px;
+    height: 190px;
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    border-radius: 120px;
+}
+
+.indonesia-text{
+    margin-left: -168px;
+    margin-top: 300px;
+    font-family: 𝙺𝙰𝚁𝙰𝙲𝙷𝙸;
+}
+
+.indonesia-text-1{
+    margin-left: -105px;
+    margin-top: 400px;
+    font-family: 𝙺𝙰𝚁𝙰𝙲𝙷𝙸;
+}
+
+.indonesia-text-2{
+    margin-left: -100px;
+    margin-top: 480px;
+    font-family: 𝙺𝙰𝚁𝙰𝙲𝙷𝙸;
+}
+
+.indonesia-logo{
+    width: 60px;
+    height: 90px;
+    margin-top: 350px;
+    margin-left: -40px;
+}
+
+/* antarctica weather */
+
+.antarctica{
+    width: 190px;
+    height: 190px;
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    border-radius: 120px;
+}
+
+.antarctica-text{
+    margin-left: -170px;
+    margin-top: 300px;
+    font-family: 𝙺𝙰𝚁𝙰𝙲𝙷𝙸;
+}
+
+.antarctica-text-1{
+    margin-left: -120px;
+    margin-top: 400px;
+    font-family: 𝙺𝙰𝚁𝙰𝙲𝙷𝙸;
+}
+
+.antarctica-text-2{
+    margin-left: -80px;
+    margin-top: 480px;
+    font-family: 𝙺𝙰𝚁𝙰𝙲𝙷𝙸;
+}
+
+.antarctica-logo{
+    width: 60px;
+    height: 60px;
+    margin-top: 350px;
+    margin-left: -45px;
+}
